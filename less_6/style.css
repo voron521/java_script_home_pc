@@ -1,0 +1,29 @@
+.buttons {
+    display: flex;
+  
+  }
+  
+  .button {
+    border-radius: 10px;
+  }
+  
+  .delete_basket {
+    padding-left: 50px;
+  }
+  .list_basket {
+    margin-left: 30px;
+    border-radius: 25px;
+    text-align: center;
+    line-height: 5em;
+  }
+  
+  .basket{
+    text-align: center;
+    line-height: 5em;
+    
+  }
+  
+  .block_basket {
+      display: flex;
+  }
+  
